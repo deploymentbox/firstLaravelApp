@@ -1,3 +1,9 @@
+## Start
+
+This is a simple guide for create a simple **Laravel app**. The app read from a database and show a list of customers.
+
+You can prove it in [Hostingcrab](http://hostingcrab.com)
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)

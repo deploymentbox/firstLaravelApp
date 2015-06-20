@@ -1,0 +1,46 @@
+/**
+ *  EXTENDING BOOTSTRAP CSS
+ * */
+
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    color: #899;
+    display: table;
+    font-weight: 100;
+    font-family: Helvetica,'Lato';
+}
+a {
+    color: #53606c;
+    font-weight: bold;
+}
+
+.table-hover>tbody>tr:hover{
+    background-color: #f7f9f9;
+}
+
+
+.title {
+    font-size: 96px;
+    margin-bottom: 40px;
+}
+
+.quote {
+    font-size: 24px;
+}
+.content{
+    margin-bottom: 90px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 25px;
+    background-color: #f5f5f5;
+}
